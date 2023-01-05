@@ -6,4 +6,4 @@
 <h2> <li> Software Architecture </li> </h2>
 <h2> <li> Technology Stack </li> </h2>
 <h2> <li> Demo </li> </h2>
-<h2> <li> Installing Instructions </li> </h2>
+<h2> <li> Installation Instructions </li> </h2>
