@@ -1,5 +1,5 @@
 
-<h1 align="center"> Monte Carlo analysis </h1>
+<h1 align="center"> Monte Carlo Analysis </h1>
 
 <p align="center"> Monte Carlo simulation is a computerized mathematical technique that allows you to account for risk in quantitative analysis and decision making. The technique is used by professionals in such widely disparate fields as finance, project management .. etc.
   </p>
