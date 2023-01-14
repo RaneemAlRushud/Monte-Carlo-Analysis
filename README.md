@@ -20,13 +20,23 @@
 * Provides objective data for decision making.
 </p>
 
-<h2> <li> 1.1 How to use it: </li> </h2>
-<h3> 🔘 Illustration : </h3> <details>
-           <summary>  Monte Carlo Simulation (arrow is clickable) </summary>
+<h2> <li> 1.1 How to use it (arrows are clickable): </li> </h2>
+<h3> 🔘 Illustration#1 : </h3> <details>
+           <summary>  Monte Carlo Simulation </summary>
            <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/211217211-b0cb267a-7d1d-4886-9eb9-7d3c86815727.png">
            </p>
          </details>
-         <br>
+
+         
+<h3> 🔘 Illustration#2 : </h3>     
+         <details>
+           <summary> Using Monte Carlo Simulation as Process Control Aid  </summary>
+           <p> <img width="500" alt="image" src="https://user-images.githubusercontent.com/59771760/212490162-608bee96-1f69-4246-bcb1-74fc9b477103.jpeg">
+           </p>
+         </details>
+
+<h3> 🔘 Illustration#3 : </h3> 
+   <br>
 
 <h2> <li> 2. Software Architecture </li> </h2>
 <h2> <li> 3. Technology Stack </li> </h2>
